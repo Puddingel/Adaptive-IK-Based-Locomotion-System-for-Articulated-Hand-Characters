@@ -1,6 +1,8 @@
+Bachelor Thesis - IK-Based Locomotion System for Hand Characters
+
 1. npm install
-2. Falls nötig npm audit fix
+2. (if necessary) npm audit fix
 3. npm run dev
 
 
-Um das GUI nutzen zu können muss an das Ende der URL "/#debug" gehängt werden. Dann muss die Seite manuell neu geladen werden.
+In order to access the GUI you need to add "/#debug" to the URL and manually reload the page
